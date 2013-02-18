@@ -1,0 +1,7 @@
+name: Chronos
+main: org.dotGaming.Endain.Chronos.Chronos
+version: 1
+commands:
+   chronos:
+      description: Set the speed of time!
+      usage: /<command> [day|night|dusk|dawn] [multiplier]
